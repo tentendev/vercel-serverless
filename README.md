@@ -1,2 +1,2 @@
 # vercel-serverless
-repository.tenten.co
+[repository.tenten.co](https://repository.tenten.co)
